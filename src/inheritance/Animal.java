@@ -10,4 +10,9 @@ public class Animal
     {
     	System.out.println("Animal should eat for survival");
     }
+    
+    public void walking()
+    {
+    	System.out.println("Animal have motion or can walk");
+    }
 }
